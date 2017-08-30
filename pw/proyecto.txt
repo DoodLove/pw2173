@@ -1,8 +1,3 @@
 Primera linea del proyecto.
 Segunda linea del proyecto.
 
-<<<<<<< HEAD
-Linea en experimento lol
-=======
-Linea en experimento XD
->>>>>>> experimento
